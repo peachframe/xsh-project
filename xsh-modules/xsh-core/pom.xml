@@ -9,7 +9,7 @@
     <relativePath>../xsh-parent/pom.xml</relativePath>
   </parent>
   <artifactId>xsh-core</artifactId>
-  <name>xsh-core</name>
+  <name>xsh :: core</name>
   
   
   <properties>

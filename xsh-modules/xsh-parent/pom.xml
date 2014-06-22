@@ -9,6 +9,7 @@
   <!-- 项目管理最高级对象 -->
   <!-- 定义属性 -->
   <properties>
+   <project.version>0.0.1-SNAPSHOT</project.version>
   	<packwebName>xsh</packwebName>
   	<junit.version>3.8</junit.version>
   	<springframe.version>2.5.6</springframe.version>

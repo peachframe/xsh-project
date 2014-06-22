@@ -9,5 +9,6 @@
   <modules>
   	<module>xsh-parent</module>
     <module>xsh-web</module>
+    <module>xsh-core</module>
   </modules>
 </project>
